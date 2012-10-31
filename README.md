@@ -3,6 +3,8 @@ helloworld-fuse
 
 A VERY simple fuse example to start with.
 
+You need **fuse-devel** installed.
+
 Usage
 =====
 
